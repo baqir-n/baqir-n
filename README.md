@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baqir-n
-- 👀 I’m interested in ... Python datasciences
-- 🌱 I’m currently learning ...Python django
-- 💞️ I’m looking to collaborate on ... mutual learning
+- 👀 I’m interested in ... Deep Learning Compuer Vision
+- 🌱 I’m currently learning ...Python/ Django/ data_analyzation/ ML_models
+- 💞️ I’m looking to collaborate on ... mutual learning/ focus groups
 - 📫 How to reach me ... my secondary gmail "lordvegeta43@gmail"
 
 <!---
