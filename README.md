@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Deep Learning Compuer Vision
 - 🌱 I’m currently learning ...Python/ Django/ data_analyzation/ ML_models
 - 💞️ I’m looking to collaborate on ... mutual learning/ focus groups
-- 📫 How to reach me ... my secondary gmail "lordvegeta43@gmail"
+- 📫 How to reach me ... my primary gmail "syednaqvi157@@gmail"
 
 <!---
 baqir-n/baqir-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
